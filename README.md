@@ -15,3 +15,5 @@ compared to traditional 2D planning tools. In conclusion, XR
 enhances the design process by offering an immersive, intuitive,
 and efficient medium for interior planning. These findings support
 broader adoption of XR in interior design workflows.
+
+Refer the presentation video for more informtion.
